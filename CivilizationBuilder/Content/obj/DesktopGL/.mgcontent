@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/virant/Source/Repos/CivilizationBuilderCSharp/CivilizationBuilder/Content/Fonts/DebugLarge.spritefont</File>
+    <File>C:/Users/virant/Source/Repos/CivilizationBuilderCSharp/CivilizationBuilder/Content/Fonts/DebugSmall.spritefont</File>
+    <File>C:/Users/virant/Source/Repos/CivilizationBuilderCSharp/CivilizationBuilder/Content/Images/Logo.png</File>
+    <File>C:/Users/virant/Source/Repos/CivilizationBuilderCSharp/CivilizationBuilder/Content/Images/Dialogue.png</File>
+    <File>C:/Users/virant/Source/Repos/CivilizationBuilderCSharp/CivilizationBuilder/Content/Images/Dialoguejpg.jpg</File>
+    <File>C:/Users/virant/Source/Repos/CivilizationBuilderCSharp/CivilizationBuilder/Content/Images/tiles.jpg</File>
+    <File>C:/Users/virant/Source/Repos/CivilizationBuilderCSharp/CivilizationBuilder/Content/Images/sprite sheet.png</File>
+    <File>C:/Users/virant/Source/Repos/CivilizationBuilderCSharp/CivilizationBuilder/Content/Images/terrain.png</File>
+  </SourceFiles>
+</SourceFileCollection>

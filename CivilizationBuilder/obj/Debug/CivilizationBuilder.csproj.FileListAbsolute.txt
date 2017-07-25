@@ -1,0 +1,52 @@
+C:\Users\virant\documents\visual studio 2017\Projects\CivilizationBuilder\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\virant\documents\visual studio 2017\Projects\CivilizationBuilder\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\Content\Fonts\Debug.xnb
+C:\Users\virant\documents\visual studio 2017\Projects\CivilizationBuilder\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\Content\Fonts\DebugLarge.xnb
+C:\Users\virant\documents\visual studio 2017\Projects\CivilizationBuilder\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\Content\Fonts\DebugSmall.xnb
+C:\Users\virant\documents\visual studio 2017\Projects\CivilizationBuilder\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\Content\Images\Dialogue.xnb
+C:\Users\virant\documents\visual studio 2017\Projects\CivilizationBuilder\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\Content\Images\Dialoguejpg.xnb
+C:\Users\virant\documents\visual studio 2017\Projects\CivilizationBuilder\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\Content\Images\Logo.xnb
+C:\Users\virant\documents\visual studio 2017\Projects\CivilizationBuilder\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\Content\Images\sprite sheet.xnb
+C:\Users\virant\documents\visual studio 2017\Projects\CivilizationBuilder\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\Content\Images\terrain.xnb
+C:\Users\virant\documents\visual studio 2017\Projects\CivilizationBuilder\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\Content\Images\tiles.xnb
+C:\Users\virant\documents\visual studio 2017\Projects\CivilizationBuilder\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\virant\documents\visual studio 2017\Projects\CivilizationBuilder\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\virant\documents\visual studio 2017\Projects\CivilizationBuilder\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\virant\documents\visual studio 2017\Projects\CivilizationBuilder\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\virant\documents\visual studio 2017\Projects\CivilizationBuilder\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\virant\documents\visual studio 2017\Projects\CivilizationBuilder\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\virant\documents\visual studio 2017\Projects\CivilizationBuilder\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\virant\documents\visual studio 2017\Projects\CivilizationBuilder\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\virant\documents\visual studio 2017\Projects\CivilizationBuilder\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\virant\documents\visual studio 2017\Projects\CivilizationBuilder\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\virant\documents\visual studio 2017\Projects\CivilizationBuilder\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\CivilizationBuilder.exe
+C:\Users\virant\documents\visual studio 2017\Projects\CivilizationBuilder\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\CivilizationBuilder.pdb
+C:\Users\virant\documents\visual studio 2017\Projects\CivilizationBuilder\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Users\virant\documents\visual studio 2017\Projects\CivilizationBuilder\CivilizationBuilder\obj\Debug\CivilizationBuilder.exe
+C:\Users\virant\documents\visual studio 2017\Projects\CivilizationBuilder\CivilizationBuilder\obj\Debug\CivilizationBuilder.pdb
+C:\Users\virant\documents\visual studio 2017\Projects\CivilizationBuilder\CivilizationBuilder\obj\Debug\CivilizationBuilder.csprojResolveAssemblyReference.cache
+C:\Users\virant\Source\Repos\CivilizationBuilderCSharp\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\Content\Fonts\Debug.xnb
+C:\Users\virant\Source\Repos\CivilizationBuilderCSharp\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\virant\Source\Repos\CivilizationBuilderCSharp\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\virant\Source\Repos\CivilizationBuilderCSharp\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\virant\Source\Repos\CivilizationBuilderCSharp\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\virant\Source\Repos\CivilizationBuilderCSharp\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\virant\Source\Repos\CivilizationBuilderCSharp\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\virant\Source\Repos\CivilizationBuilderCSharp\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\virant\Source\Repos\CivilizationBuilderCSharp\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\virant\Source\Repos\CivilizationBuilderCSharp\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\virant\Source\Repos\CivilizationBuilderCSharp\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\virant\Source\Repos\CivilizationBuilderCSharp\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\virant\Source\Repos\CivilizationBuilderCSharp\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\Content\Fonts\DebugLarge.xnb
+C:\Users\virant\Source\Repos\CivilizationBuilderCSharp\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\Content\Fonts\DebugSmall.xnb
+C:\Users\virant\Source\Repos\CivilizationBuilderCSharp\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\Content\Images\Dialogue.xnb
+C:\Users\virant\Source\Repos\CivilizationBuilderCSharp\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\Content\Images\Dialoguejpg.xnb
+C:\Users\virant\Source\Repos\CivilizationBuilderCSharp\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\Content\Images\Logo.xnb
+C:\Users\virant\Source\Repos\CivilizationBuilderCSharp\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\Content\Images\sprite sheet.xnb
+C:\Users\virant\Source\Repos\CivilizationBuilderCSharp\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\Content\Images\terrain.xnb
+C:\Users\virant\Source\Repos\CivilizationBuilderCSharp\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\Content\Images\tiles.xnb
+C:\Users\virant\Source\Repos\CivilizationBuilderCSharp\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\CivilizationBuilder.exe
+C:\Users\virant\Source\Repos\CivilizationBuilderCSharp\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\CivilizationBuilder.pdb
+C:\Users\virant\Source\Repos\CivilizationBuilderCSharp\CivilizationBuilder\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Users\virant\Source\Repos\CivilizationBuilderCSharp\CivilizationBuilder\obj\Debug\CivilizationBuilder.csprojResolveAssemblyReference.cache
+C:\Users\virant\Source\Repos\CivilizationBuilderCSharp\CivilizationBuilder\obj\Debug\CivilizationBuilder.exe
+C:\Users\virant\Source\Repos\CivilizationBuilderCSharp\CivilizationBuilder\obj\Debug\CivilizationBuilder.pdb
